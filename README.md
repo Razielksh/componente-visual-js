@@ -85,7 +85,7 @@ Llama a la función `inicializarCarrusel` pasándole el `id` de tu div y un obje
 
 ## Video Demostrativo
 
-[Ver video demo de 60 segundos](ENLACE_DE_VIDEO)
+[Ver video demo de 60 segundos](https://youtu.be/aCT794qdzaE)
 
 ---
 
